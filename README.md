@@ -1,6 +1,6 @@
 # Duelception-Game-
 
-##Duelception Game - The C++ Version.
+# Duelception Game - The C++ Version.
 
 A text-driven (console/CMD app) fighting game written on C++.
 
