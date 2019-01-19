@@ -6,5 +6,5 @@ A text-driven (console/CMD app) fighting game written on C++.
 
 Download the DuelceptionGame.exe file to run the game and click on the in-game "How To Play" section to learn how to play the game.
 
-
+![duelception game cpp](https://user-images.githubusercontent.com/46231723/51433290-57056700-1c3f-11e9-8003-e9783235e9a2.gif)
 
