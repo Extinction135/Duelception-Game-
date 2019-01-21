@@ -1,7 +1,7 @@
 # Duelception-Game- The C#/CS Version
 A text-driven fighting game written on C++ Forms Application.
 
-Download the DuelceptionGame_CS.exe file to run the game and click on the in-game "How To Play" section to learn how to play the game.
+Download the ![DuelceptionGame_CS.exe] file to run the game and click on the in-game "How To Play" section to learn how to play the game.
 
 ![duelception game cs](https://user-images.githubusercontent.com/46231723/51445639-867ba880-1cff-11e9-9449-5f627bf8d92c.gif)
 
