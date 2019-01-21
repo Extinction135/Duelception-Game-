@@ -1,4 +1,3 @@
-All Programs were created on Visual Studios 2017.
 # Duelception-Game- The C#/CS Version
 A text-driven fighting game written on C++ Forms Application.
 
