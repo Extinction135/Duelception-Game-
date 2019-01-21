@@ -2,7 +2,7 @@
 * Turned based Battle system.
 * You will always attack First. Shortly followed by the enemy.
 * Beginning of each Round you will be prompted to select an Ability.
-* Abilities are selected by clicking on the desired Ability and then clicking on the "Accept and Battle" Button.
+* Abilities are selected by entering the corrosponding number, e.g. 1.
 * You and your Enemy both have 2 Abilities and start of with 600 Health.
 * To Win, you must defeat your Enemy by reducing its' health to 0.
 * Your's and the Enemy's Attacks will be displayed in the 'Attack Feed'.
