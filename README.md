@@ -5,7 +5,7 @@ A text-driven fighting game written in C++ Forms Application.
 
 **Download** the ![DuelceptionGame_CS.exe](https://github.com/Extinction135/Duelception-Game-/blob/master/DuelceptionGame_CS.exe) file to run the game and click on the in-game **"How To Play"** section to learn how to play the game.
 
-![duelception game cs](https://user-images.githubusercontent.com/46231723/51445639-867ba880-1cff-11e9-9449-5f627bf8d92c.gif)
+![](https://user-images.githubusercontent.com/46231723/51445639-867ba880-1cff-11e9-9449-5f627bf8d92c.gif)
 
 ### Exclusive Feature only in C#/CS version:
 * Stats Page(Form)
@@ -24,6 +24,8 @@ A text-driven fighting game written in C++ Forms Application.
 A text-driven (console/CMD app) fighting game written in C++.
 
 **Download** the ![DuelceptionGame_CPP.exe](https://github.com/Extinction135/Duelception-Game-/blob/master/DuelceptionGame_CPP.exe) file to run the game and click on the in-game **"How To Play"** section to learn how to play the game.
+
+![](https://user-images.githubusercontent.com/46231723/51433290-57056700-1c3f-11e9-8003-e9783235e9a2.gif)
 
 ASCII Images are used in this version.
 
