@@ -7,9 +7,9 @@
 * Your's and the Enemy's Attacks will be displayed in the 'Attack Feed'.
 
 #### *Player/Your Abilities:*
-* (1) **Divine Power** - Attacks for 190 damage.
+1. **Divine Power** - Attacks for 190 damage.
 
-* (2) **Healing Touch** - Attacks for 50 damage and you gain 170 health.
+2. **Healing Touch** - Attacks for 50 damage and you gain 170 health.
 
 #### *Enemy Abilities:*
 * (1) **Fire Breath** - Attacks for a random damage number between 100-300.
