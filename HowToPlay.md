@@ -12,6 +12,6 @@
 2. **Healing Touch** - Attacks for 50 damage and you gain 170 health.
 
 #### *Enemy Abilities:*
-* (1) **Fire Breath** - Attacks for a random damage number between 100-300.
+1. **Fire Breath** - Attacks for a random damage number between 100-300.
 
-* (2) **Restore** - Gains 300 Health. Enemy has a 25% chance of using this ability.
+2. **Restore** - Gains 300 Health. Enemy has a 25% chance of using this ability.
