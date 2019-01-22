@@ -1,6 +1,6 @@
 ##### *A text-driven combat game written in 2 different languages: C#/CS and C++/CPP*
 ##### *(All Programs are written in Visual Studio 17 and will only work on Windows platform.)*
-# Duelception-Game- The C#/CS Version
+# Duelception Game- The C#/CS Version
 A text-driven fighting game written in C++ Forms Application.
 
 **Download** the ![DuelceptionGame_CS.exe](https://github.com/Extinction135/Duelception-Game-/blob/master/DuelceptionGame_CS.exe) file to run the game and click on the in-game **"How To Play"** section to learn how to play the game.
